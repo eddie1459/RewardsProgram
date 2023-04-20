@@ -25,7 +25,7 @@ If you select the "Get Rewards for selected customer" you will get the Total Poi
 
 If you select the "Get All Rewards" you will get all the points for all the users
 
-![Screenshot 2023-04-20 at 3 54 35 PM](https://user-images.githubusercontent.com/549133/233486013-361fa111-0a48-4e92-8e8c-8f77a7d211c1.png)
+![Screenshot 2023-04-20 at 4 01 51 PM](https://user-images.githubusercontent.com/549133/233486959-6802280f-fc5b-49a7-a55b-31037be7a923.png)
 
 If you select the "Get All Transactions" you will get a list of all the transactions
 
