@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "amount": 120,
+    "date": "3/4/2023",
+    "transactionId": 1,
+    "first": "John",
+    "last": "Smith"
+},
+{
+    "id": 1,
+    "amount": 75,
+    "date": "3/10/2023",
+    "transactionId": 2,
+    "first": "John",
+    "last": "Smith"
+},
+{
+    "id": 1,
+    "amount": 35,
+    "date": "4/10/2023",
+    "transactionId": 3,
+    "first": "John",
+    "last": "Smith"
+},
+{
+    "id": 1,
+    "amount": 250,
+    "date": "1/10/2023",
+    "transactionId": 4,
+    "first": "John",
+    "last": "Smith"
+},
+{
+    "id": 2,
+    "amount": 135,
+    "date": "10/10/2023",
+    "transactionId": 5,
+    "first": "Mary",
+    "last": "Jane"
+},
+{
+    "id": 2,
+    "amount": 95,
+    "date": "5/10/2023",
+    "transactionId": 6,
+    "first": "Mary",
+    "last": "Jane"
+},
+{
+    "id": 2,
+    "amount": 45,
+    "date": "3/10/2023",
+    "transactionId": 7,
+    "first": "Mary",
+    "last": "Jane"
+},
+{
+    "id": 2,
+    "amount": 150,
+    "date": "2/10/2023",
+    "transactionId": 8,
+    "first": "Mike",
+    "last": "Tyson"
+},
+{
+    "id": 3,
+    "amount": 133,
+    "date": "1/20/2023",
+    "transactionId": 9,
+    "first": "Mike",
+    "last": "Tyson"
+},
+{
+    "id": 3,
+    "amount": 73,
+    "date": "4/10/2023",
+    "transactionId": 10,
+    "first": "Mike",
+    "last": "Tyson"
+},
+{
+    "id": 3,
+    "amount": 5,
+    "date": "2/17/2023",
+    "transactionId": 11,
+    "first": "Mike",
+    "last": "Tyson"
+},
+{
+    "id": 3,
+    "amount": 144,
+    "date": "4/11/2023",
+    "transactionId": 12,
+    "first": "Mike",
+    "last": "Tyson"
+}
+]
